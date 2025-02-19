@@ -3,8 +3,7 @@ pyarrow==14.0.1
 fsspec
 huggingface_hub
 transformers
-torch==2.5.1
-torchvision==0.20.1
-torchaudio==2.5.1
-
-annoy
+torch
+numpy==1.26.4
+tqdm
+faiss-cpu
